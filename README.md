@@ -3,7 +3,6 @@
 
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmonem&label=Profile%20views&color=0e75b6&style=flat" alt="amirmonem" /> </p>
 
 - 🌱 I’m currently learning **computer vision , Machine learning**
