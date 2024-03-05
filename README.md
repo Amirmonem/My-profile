@@ -1,5 +1,5 @@
 # My-profile
-<h3 align="center">Ai student from Egypt</h3>
+<h3 align="center">AI student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmonem&label=Profile%20views&color=0e75b6&style=flat" alt="amirmonem" /> </p>
 
