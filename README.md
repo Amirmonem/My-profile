@@ -1,7 +1,7 @@
 # My-profile
 <h3 align="center">Hello , I'm Amir , AI student from Egypt</h3>
 
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" />
+  <img src="https://giphy.com/gifs/glitch-analog-glitchart-GbRYCNaqC37LIxFC1" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmonem&label=Profile%20views&color=0e75b6&style=flat" alt="amirmonem" /> </p>
 
